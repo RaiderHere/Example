@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CalkUnits</string>
+    <string name="textHole">Отверстия:</string>
+    <string name="textMM">Миллиметры:</string>
+    <string name="textUnit">Юниты:</string>
+    <string name="hintUnit">Введите юниты</string>
+    <string name="hintMM">Введите миллиметры</string>
+    <string name="hintHole">Введите отверстия</string>
+</resources>

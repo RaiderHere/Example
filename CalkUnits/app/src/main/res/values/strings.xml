@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalkUnits</string>
+    <string name="textUnit">Units:</string>
+    <string name="textMM">Millimeters:</string>
+    <string name="textHole">Holes:</string>
+    <string name="hintUnit">Type Units here</string>
+    <string name="hintMM">Type millimeters here</string>
+    <string name="hintHole">Type holes here</string>
+</resources>
